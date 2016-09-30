@@ -17,7 +17,10 @@
     "webpack-dev-server": "~1.14.*"
   },
   "dependencies": {
+    "flux": "^3.0.0",
     "react": "^15.0.0",
-    "react-dom": "^15.0.0"
+    "react-auto-suggest": "0.0.12",
+    "react-dom": "^15.0.0",
+    "whatwg-fetch": "^1.0.0"
   }
 }
